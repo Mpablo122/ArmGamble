@@ -1,16 +1,13 @@
-// src/services/exerciseAPI.js
-const EXERCISE_URL = 'https://mocky.io/v2/5d889c8a3300002c0ed7da42'; // Replace with a working API or mock API
+import exercises from '../data/exercises.json';
 
 export const fetchExercises = async () => {
   try {
-    const response = await fetch(EXERCISE_URL);
-    if (!response.ok) {
-      throw new Error('Failed to fetch exercises');
-    }
-    const data = await response.json();
-    return data;
+    // Simulate an async operation
+    return new Promise((resolve) => {
+      setTimeout(() => resolve(exercises), 500); // Simulate a delay
+    });
   } catch (error) {
-    console.error(error);
+    console.error('Error reading exercises:', error);
     return [];
   }
 };

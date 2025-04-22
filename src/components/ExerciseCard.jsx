@@ -33,7 +33,7 @@ const ExerciseCard = ({ exercise }) => {
       <h3 style={{ textTransform: 'capitalize', marginBottom: '0.5rem' }}>{exercise.name}</h3>
       <p><strong>Target:</strong> {exercise.target}</p>
       <p><strong>Equipment:</strong> {exercise.equipment}</p>
-      <p style={{ fontSize: '0.9rem', marginTop: '1rem' }}>{exercise.bodyPart}</p>
+      <p><strong>Body Part:</strong> {exercise.bodyPart}</p>
 
       <div style={{ marginTop: '1rem' }}>
         <label>

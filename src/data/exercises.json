@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Push-Up",
+    "gifUrl": "https://example.com/push-up.gif",
+    "target": "chest",
+    "equipment": "body weight",
+    "bodyPart": "upper body"
+  },
+  {
+    "id": 2,
+    "name": "Pull-Up",
+    "gifUrl": "https://example.com/pull-up.gif",
+    "target": "back",
+    "equipment": "body weight",
+    "bodyPart": "upper body"
+  }
+]
