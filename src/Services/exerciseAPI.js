@@ -1,5 +1,5 @@
 // src/services/exerciseAPI.js
-const EXERCISE_URL = 'https://raw.githubusercontent.com/drksv/free-exercise-gym/main/exercises.json';
+const EXERCISE_URL = 'https://mocky.io/v2/5d889c8a3300002c0ed7da42'; // Replace with a working API or mock API
 
 export const fetchExercises = async () => {
   try {
