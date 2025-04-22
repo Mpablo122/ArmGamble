@@ -41,7 +41,7 @@ const Home = () => {
       setFilteredExercises(exercises);
     } else {
       const filtered = exercises.filter(
-        (exercise) => exercise.muscle.toLowerCase() === selectedGroup.toLowerCase()
+        (exercise) => exercise.target.toLowerCase() === selectedGroup.toLowerCase()
       );
       setFilteredExercises(filtered);
     }
