@@ -2,17 +2,161 @@
   {
     "id": 1,
     "name": "Push-Up",
-    "gifUrl": "https://example.com/push-up.gif",
+    "gifUrl": "https://media.giphy.com/media/3o6ZsYm5P38NvUWrDi/giphy.gif",
     "target": "chest",
     "equipment": "body weight",
     "bodyPart": "upper body"
   },
   {
     "id": 2,
+    "name": "Bench Press",
+    "gifUrl": "https://media.giphy.com/media/3o7TKP9lnyMAk3mZs4/giphy.gif",
+    "target": "chest",
+    "equipment": "barbell",
+    "bodyPart": "upper body"
+  },
+  {
+    "id": 3,
+    "name": "Incline Dumbbell Press",
+    "gifUrl": "https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif",
+    "target": "chest",
+    "equipment": "dumbbell",
+    "bodyPart": "upper body"
+  },
+  {
+    "id": 4,
+    "name": "Chest Fly",
+    "gifUrl": "https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif",
+    "target": "chest",
+    "equipment": "cable",
+    "bodyPart": "upper body"
+  },
+  {
+    "id": 5,
+    "name": "Dips",
+    "gifUrl": "https://media.giphy.com/media/3o7TKP9lnyMAk3mZs4/giphy.gif",
+    "target": "chest",
+    "equipment": "body weight",
+    "bodyPart": "upper body"
+  },
+  {
+    "id": 6,
     "name": "Pull-Up",
-    "gifUrl": "https://example.com/pull-up.gif",
+    "gifUrl": "https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif",
     "target": "back",
     "equipment": "body weight",
     "bodyPart": "upper body"
+  },
+  {
+    "id": 7,
+    "name": "Deadlift",
+    "gifUrl": "https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif",
+    "target": "back",
+    "equipment": "barbell",
+    "bodyPart": "lower body"
+  },
+  {
+    "id": 8,
+    "name": "Bent-Over Row",
+    "gifUrl": "https://media.giphy.com/media/3o6ZsYm5P38NvUWrDi/giphy.gif",
+    "target": "back",
+    "equipment": "barbell",
+    "bodyPart": "upper body"
+  },
+  {
+    "id": 9,
+    "name": "Lat Pulldown",
+    "gifUrl": "https://media.giphy.com/media/3o7TKP9lnyMAk3mZs4/giphy.gif",
+    "target": "back",
+    "equipment": "cable",
+    "bodyPart": "upper body"
+  },
+  {
+    "id": 10,
+    "name": "Seated Cable Row",
+    "gifUrl": "https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif",
+    "target": "back",
+    "equipment": "cable",
+    "bodyPart": "upper body"
+  },
+  {
+    "id": 11,
+    "name": "Bicep Curl",
+    "gifUrl": "https://media.giphy.com/media/3o7TKP9lnyMAk3mZs4/giphy.gif",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "bodyPart": "upper body"
+  },
+  {
+    "id": 12,
+    "name": "Hammer Curl",
+    "gifUrl": "https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "bodyPart": "upper body"
+  },
+  {
+    "id": 13,
+    "name": "Barbell Curl",
+    "gifUrl": "https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif",
+    "target": "biceps",
+    "equipment": "barbell",
+    "bodyPart": "upper body"
+  },
+  {
+    "id": 14,
+    "name": "Concentration Curl",
+    "gifUrl": "https://media.giphy.com/media/3o6ZsYm5P38NvUWrDi/giphy.gif",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "bodyPart": "upper body"
+  },
+  {
+    "id": 15,
+    "name": "Cable Curl",
+    "gifUrl": "https://media.giphy.com/media/3o7TKP9lnyMAk3mZs4/giphy.gif",
+    "target": "biceps",
+    "equipment": "cable",
+    "bodyPart": "upper body"
+  },
+  {
+    "id": 16,
+    "name": "Squat",
+    "gifUrl": "https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif",
+    "target": "legs",
+    "equipment": "body weight",
+    "bodyPart": "lower body"
+  },
+  {
+    "id": 17,
+    "name": "Lunges",
+    "gifUrl": "https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif",
+    "target": "legs",
+    "equipment": "body weight",
+    "bodyPart": "lower body"
+  },
+  {
+    "id": 18,
+    "name": "Leg Press",
+    "gifUrl": "https://media.giphy.com/media/3o7TKP9lnyMAk3mZs4/giphy.gif",
+    "target": "legs",
+    "equipment": "machine",
+    "bodyPart": "lower body"
+  },
+  {
+    "id": 19,
+    "name": "Leg Curl",
+    "gifUrl": "https://media.giphy.com/media/3o6ZsYm5P38NvUWrDi/giphy.gif",
+    "target": "legs",
+    "equipment": "machine",
+    "bodyPart": "lower body"
+  },
+  {
+    "id": 20,
+    "name": "Calf Raise",
+    "gifUrl": "https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif",
+    "target": "legs",
+    "equipment": "body weight",
+    "bodyPart": "lower body"
   }
 ]
